@@ -1,10 +1,12 @@
 osgi-ddthcollection-commons
 ===========================
 
-Common Libraries and Utilities
+DDTH's Java Common Libraries and Utilities packaged as OSGi bundle.
+
+By Thanh Ba Nguyen (btnguyen2k (at) gmail.com)
 
 Project home:
-[https://github.com/osgi-ddthcollection/osgi-ddthcollection-commons](https://github.com/osgi-ddthcollection/osgi-ddthcollection-commons)
+[https://github.com/DDTH/ddth-osgicommons](https://github.com/DDTH/ddth-osgicommons)
 
 
 ## License ##
@@ -14,10 +16,22 @@ See LICENSE.txt for details. Copyright (c) 2014 Thanh Ba Nguyen.
 Third party libraries are distributed under their own license(s).
 
 
-## Release-notes ##
+## Installation #
 
-Latest stable release: v0.1.0.
+Latest release version: `0.1.1`. See [RELEASE-NOTES.md](RELEASE-NOTES.md).
 
-Latest SNAPSHOT release: v0.1.0-SNAPSHOT.
+Maven dependency:
 
-See [RELEASE-NOTES.md](RELEASE-NOTES.md).
+```xml
+<dependency>
+	<groupId>com.github.ddth</groupId>
+	<artifactId>ddth-osgicommons</artifactId>
+	<version>0.1.1</version>
+</dependency>
+```
+
+## Utility/Helper Classes ##
+
+* See: [com.github.ddth.osgicommons](src/main/java/com/github/ddth/osgicommons/README.md).
+
+* See: [ddth-commons](https://github.com/DDTH/ddth-commons).

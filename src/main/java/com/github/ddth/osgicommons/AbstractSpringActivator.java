@@ -1,4 +1,4 @@
-package com.github.ddth.osgicollection.commons.osgi;
+package com.github.ddth.osgicommons;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

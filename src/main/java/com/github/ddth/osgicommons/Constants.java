@@ -1,4 +1,4 @@
-package com.github.ddth.osgicollection.commons.osgi;
+package com.github.ddth.osgicommons;
 
 /**
  * Defines common constants.
