@@ -1,6 +1,11 @@
 ddth-osgicommons release notes
 ==============================
 
+v0.1.2 - 2014-02-28
+-------------------
+Wrapper for ddth-commons-0.1.2
+
+
 v0.1.1 - 2014-02-13
 -------------------
 Wrapper for ddth-commons-0.1.1
